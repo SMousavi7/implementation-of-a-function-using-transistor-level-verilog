@@ -1,6 +1,4 @@
-In our logic circuit course we had to solve some questions and one of them was this. In this question we had to implement this function:
-
-$F(A,B,C,D)=AB+ABC'+BD'+A'C'D'$
+In our logic circuit course we had to solve some questions and one of them was this. In this question we had to implement this function: $F(A,B,C,D)=AB+ABC'+BD'+A'C'D'$.
 
 and after that we had to make a test-bench file for it. 
 
